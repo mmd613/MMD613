@@ -10,8 +10,6 @@ I am a senior researcher and project manager with over 7 years of experience spa
 
 - 💬 Ask me about mixed-methods research, data storage and integrity, process improvement, and product quality assurance. Here are some of my work samples:
 	- [Spatial-statistical analysis](https://github.com/mmd613/Diss_work "Spatial-statistical analysis")
-	- [Data monitoring and KPI tracking](https://github.com/mmd613/impl_track "Data monitoring and KPI tracking")
-	- [Qualitative analysis of program engagement](https://github.com/mmd613/sust_qual "Qualitative analysis of program engagement")
 	- [More sample work...](https://github.com/mmd613/sample_work "More sample work...")
 - 🔭 I’m currently working on completing my ASQ CQPA training and broadening my understanding of SQL.
 - 🧮 I recently completed my cost-effectiveness and benefit-cost analysis training offered by UPenn. Looking for projects to apply this knowledge!
